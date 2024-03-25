@@ -1,0 +1,3 @@
+﻿  Program.cpp
+C:\Users\dowmi\Documents\Repos\Algo-and-DS-Assignment-2\Algo and DS Assignment 2\Program.cpp(73,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Algo and DS Assignment 2.vcxproj -> C:\Users\dowmi\Documents\Repos\Algo-and-DS-Assignment-2\Algo and DS Assignment 2\x64\Debug\Algo and DS Assignment 2.exe
